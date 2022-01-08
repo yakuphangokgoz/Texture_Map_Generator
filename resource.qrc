@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/leather_texture.jpg</file>
+        <file>img/background.png</file>
+        <file>img/sample.jpg</file>
+        <file>img/tab_background.png</file>
+        <file>img/tab_background_pressed.png</file>
+        <file>img/tab_background2.png</file>
+        <file>img/tab_background_hover.png</file>
+        <file>manipulation.cl</file>
+        <file>texroyal.ico</file>
+        <file>img/minimize_icon.png</file>
+        <file>img/close_icon.png</file>
+    </qresource>
+</RCC>
